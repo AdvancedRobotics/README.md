@@ -10,11 +10,11 @@ Advanced Robotics consists of the following CTS modules:
 ## NET1010: Digital Technology 1
 Students construct and demonstrate logic systems and their unique features.
 ### Project: 
- *
- *
- *
- *
- *
+ * ...
+ * ...
+ * ...
+ * ...
+ * ...
  
 ## NET2010: Digital Technology 2
 Students demonstrate knowledge of digital principles, by using small-scale transistor-transitor logic (TTL) and complementary metal-oxide semiconductor (CMOS) integrated technology.
